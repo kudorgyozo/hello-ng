@@ -12,6 +12,18 @@
     },
     {
       "path": "./tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/counter-lib/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/counter-lib/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/counter-web-component/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/counter-web-component/tsconfig.spec.json"
     }
 ]
 }
